@@ -1,1 +1,6 @@
 theme: jekyll-theme-cayman
+
+webrick:
+  headers:
+    My-Header: My-Header
+    My-Other-Header: My-Other-Header
