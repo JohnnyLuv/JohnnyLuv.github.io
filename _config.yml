@@ -1,5 +1,7 @@
 theme: jekyll-theme-cayman
 
+title: Sisiscat's Blog
+
 webrick:
   headers:
     My-Header: My-Header
