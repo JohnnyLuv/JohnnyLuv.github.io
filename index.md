@@ -2,7 +2,7 @@
 
 ## 2020
 + 12
-  + 02 / [Identify图形验证码React版](2020/12/1202.Identify图形验证码React版.md)
+  + 02 / [Identify图形验证码 React版](2020/12/1202.Identify图形验证码React版.md)
   + 02 / [Identify 图形验证码 Vue版](2020/12/1202.Identify图形验证码Vue版.md)
 + 03
   + 24 / [nodejs+koa2+jwt登录验证和鉴权](2020/03/0324.nodejs+koa2+jwt登录验证和鉴权.md)
