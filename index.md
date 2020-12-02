@@ -11,7 +11,7 @@
 + 06
   - 27 / [rem自适应方案——flexibleJS](2019/06/0627.rem自适应方案flexibleJS.md)
 + 04
-  - 25 / [webpack4.x多页面应用(MPA)配置案例](2019/04/0425.webpack4.x多页面应用(MPA)配置案例.md)
+  - 25 / [webpack4.x多页面应用(MPA)配置案例](2019/04/0425.webpack4x多页面应用(MPA)配置案例.md)
 
 ---
 ## 2018
