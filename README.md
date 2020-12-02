@@ -1,3 +1,1 @@
-# my-blog
-
-[index](./index.md)
+[include](File:./../index.md)
