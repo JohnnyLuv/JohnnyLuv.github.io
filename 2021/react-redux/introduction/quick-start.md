@@ -5,7 +5,7 @@ categories: JavaScript
 tags: [React, Redux]
 ---
 
-# 快速启动
+# 快速开始
 
 `React Redux`是`Redux`的官方`React`绑定。它使您的`React`组件能够从`Redux`存储中读取数据，并向存储分派操作以更新数据。
 > React Redux is the official React binding for Redux. It lets your React components read data from a Redux store, and dispatch actions to the store to update data.
@@ -31,7 +31,7 @@ yarn add react-redux
 您还需要安装`Redux`，并在应用程序中设置`Redux store`。
 > You'll also need to install Redux and set up a Redux store in your app.
 
-### `Provider`
+### Provider
 
 `React Redux`提供`<Provider />`，这使得`Redux store`可以用于你的应用程序的其余部分:
 > React Redux provides <Provider />, which makes the Redux store available to the rest of your app:
@@ -54,7 +54,7 @@ ReactDOM.render(
 )
 ```
 
-### `connect()`
+### connect()
 
 `React Redux`提供了一个`connect`函数来将组件连接到`store`。
 > React Redux provides a connect function for you to connect your component to the store.
