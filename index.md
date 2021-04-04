@@ -1,15 +1,10 @@
 > Less is more
 
 ## 2021
-+ 03
-
 + `React Redux 7.x` 中文文档
-  + 介绍
-    + [快速启动](2021/react-redux/introduction/quick-start.md)
-    + [基础教程](2021/react-redux/introduction/basic-tutorial.md)
-    + [为什么使用React Redux？](2021/react-redux/introduction/why-use-react-redux.md)
-  + 使用`React Redux`
-  + API参考
+  + [快速开始](2021/react-redux/getting-started.md)
+  + [基础教程](2021/react-redux/tutorials.md)
+  + [联合TypeScript](2021/react-redux/usage-with-typescript.md)
 
 ---
 ## 2020
