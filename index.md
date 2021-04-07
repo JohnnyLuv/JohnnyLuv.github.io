@@ -5,6 +5,7 @@
   + [快速开始](2021/react-redux/getting-started.md)
   + [基础教程](2021/react-redux/tutorials.md)
   + [联合TypeScript](2021/react-redux/usage-with-typescript.md)
+  + [Connect：使用mapStateToProps提取数据](2021/react-redux/mapStateToProps.md)
 
 ---
 ## 2020
