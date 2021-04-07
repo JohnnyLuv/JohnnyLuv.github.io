@@ -8,6 +8,7 @@
   + [Connect：使用mapStateToProps提取数据](2021/react-redux/mapStateToProps.md)
   + [Connect：使用mapDispatchToProps来调度操作](2021/react-redux/mapDispatchToProps.md)
   + [访问 Store](2021/react-redux/accessing-store.md)
+  + [API Provider](2021/react-redux/api-provider.md)
 
 ---
 ## 2020
