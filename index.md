@@ -6,6 +6,7 @@
   + [基础教程](2021/react-redux/tutorials.md)
   + [联合TypeScript](2021/react-redux/usage-with-typescript.md)
   + [Connect：使用mapStateToProps提取数据](2021/react-redux/mapStateToProps.md)
+  + [Connect：使用mapDispatchToProps来调度操作](2021/react-redux/mapDispatchToProps.md)
 
 ---
 ## 2020
