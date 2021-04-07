@@ -11,6 +11,7 @@
   + [API Provider](2021/react-redux/api-provider.md)
   + [API Hooks](2021/react-redux/api-hooks.md)
   + [API connect()](2021/react-redux/api-connect.md)
+  + [API connectAdvanced())](2021/react-redux/api-connect-advanced.md)
 
 ---
 ## 2020
