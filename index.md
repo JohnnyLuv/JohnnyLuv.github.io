@@ -12,6 +12,7 @@
   + [API Hooks](2021/react-redux/api-hooks.md)
   + [API connect()](2021/react-redux/api-connect.md)
   + [API connectAdvanced())](2021/react-redux/api-connect-advanced.md)
+  + [API batch())](2021/react-redux/api-batch.md)
 
 ---
 ## 2020
