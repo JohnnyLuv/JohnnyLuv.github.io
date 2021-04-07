@@ -10,6 +10,7 @@
   + [访问 Store](2021/react-redux/accessing-store.md)
   + [API Provider](2021/react-redux/api-provider.md)
   + [API Hooks](2021/react-redux/api-hooks.md)
+  + [API connect()](2021/react-redux/api-connect.md)
 
 ---
 ## 2020
