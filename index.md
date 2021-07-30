@@ -1,6 +1,8 @@
 > Less is more
 
 ## 2021
++ 07
+  + 30 / [react redux 用例由繁到简](2021/07/0729.react-redux-usage.md)
 + `React Redux 7.x` 中文文档
   + [快速开始](2021/react-redux/getting-started.md)
   + [基础教程](2021/react-redux/tutorials.md)
